@@ -5,6 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
-export class AppComponent {
-  title = 'ARaA-frontend';
+export class AppComponent
+{
+  title = 'ARaA-frontend'
 }
